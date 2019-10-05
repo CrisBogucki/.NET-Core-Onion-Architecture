@@ -8,4 +8,8 @@
       <ProjectReference Include="..\SampleApp.Core\SampleApp.Core.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Repositories" />
+    </ItemGroup>
+
 </Project>
