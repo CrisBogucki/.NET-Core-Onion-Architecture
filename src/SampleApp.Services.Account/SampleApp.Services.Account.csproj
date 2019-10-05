@@ -9,4 +9,8 @@
       <Folder Include="Services" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\SampleApp.Architecture\SampleApp.Architecture.csproj" />
+    </ItemGroup>
+
 </Project>
